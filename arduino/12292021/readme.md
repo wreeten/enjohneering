@@ -3,7 +3,7 @@
 ### Intro!
 
 ![arduino](/imgs/arduino.png)
-![notes](./notes/ard1.png)
-![notes](./notes/ard2.png)
-![notes](./notes/ard3.png)
-![notes](./notes/ard4.png)
+![notes](/notes/ard1.png)
+![notes](/notes/ard2.png)
+![notes](/notes/ard3.png)
+![notes](/notes/ard4.png)
