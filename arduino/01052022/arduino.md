@@ -1,6 +1,7 @@
 # Today We Are Learning Arduino and Sensors! 
 
-`
+```
+
 #include <Adafruit_Sensor.h>
 
 #include <DHT.h>
@@ -34,4 +35,5 @@ void loop()
     Serial.println(" Celsius");
     delay(2000); //Delay 2 sec.
 }
-`
+
+```
