@@ -1,4 +1,4 @@
-# Welcome to CSU Northridge Defense
+# Welcome to CSU Northridge Defense!
 # Table of Contents:
 ## Intro
 ![CSUN Defense](/imgs/csundefense.png)
