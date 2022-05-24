@@ -2,9 +2,9 @@
 # Welcome to ENJOHNEERING
 
 ## Table of Contents:
-### Section One:  Arduino
-12/29/2021: We learn the basics of Arduino and how to operate.
-    The link for [Intro: Aruduino](https://github.com/wreeten/enjohneering/tree/main/arduino/12292021).
-### Section Two: Python
+### Section One:  CSUN Defense
+05/24/2022: We learn what goes inside an RC plane, and what are goals are for the summer
+    - The link for [Intro: CSUN Defense](https://github.com/wreeten/enjohneering/tree/main/arduino/12292021).
+### Section Two: CSUN CleanBot
 
-### Section Three: VHDL | FPGA
+### Section Three: Learning
