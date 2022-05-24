@@ -1,5 +1,5 @@
 # Welcome to CSU Northridge Defense!
+![CSUN Defense](/imgs/csundefense.png)
 ## Table of Contents:
 ### Intro
-![CSUN Defense](/imgs/csundefense.png)
-The link for Intro to CSUN Defense is [CSUN Defense](https://github.com/wreeten/enjohneering/blob/main/CSUNDefense/summer22/052422.md).
+- The link for Intro to CSUN Defense is [Here](https://github.com/wreeten/enjohneering/blob/main/CSUNDefense/summer22/052422.md).
